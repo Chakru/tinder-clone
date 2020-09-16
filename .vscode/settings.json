@@ -1,9 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "prettier.requireConfig": true,
-  "prettier.configPath": "D:\\Personal_Project\\ReactJS\\tinder-clone\\.prettierrc.js"
-}
